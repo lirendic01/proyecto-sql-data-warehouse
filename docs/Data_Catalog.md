@@ -59,7 +59,7 @@ It contains product details such as name, category, subcategory, cost, product l
 | category_id | NVARCHAR(50) | ID of the product category. |
 | category | NVARCHAR(50) | Main product category. |
 | subcategory | NVARCHAR(50) | More specific product category. |
-| maintenance_required | NVARCHAR(50) | Shows if the product requires maintenance. |
+| maintenance | NVARCHAR(50) | Shows if the product requires maintenance. |
 | cost | INT | Product cost. |
 | product_line | NVARCHAR(50) | Product line or series. |
 | start_date | DATE | Date when the product became available. |
