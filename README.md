@@ -100,7 +100,3 @@ Main conventions:
 - Data Quality Checks
 - Technical Documentation
 - Git Version Control
-
-## Author
-
-Developed by **Lily Rendic** as part of my Data Engineering and Analytics portfolio.
