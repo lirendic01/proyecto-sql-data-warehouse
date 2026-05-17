@@ -99,3 +99,9 @@ Main conventions:
 - Data Quality Checks
 - Technical Documentation
 - Git Version Control
+
+## This project is part of a SQL portfolio series:
+
+1. SQL Data Warehouse Project
+2. SQL Exploratory Data Analysis Project
+3. SQL Advanced Data Analytics Project
