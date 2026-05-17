@@ -21,7 +21,7 @@ Fact tables store measurable events, such as sales.
 
 This table stores customer information.
 
-It combines customer details with extra demographic and geographic data, such as country, gender, marital status, and birthdate.
+It combines customer details with extra demographic and geographic data, such as country, gender, marital status, and birthdate
 
 ## Columns
 
