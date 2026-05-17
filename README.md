@@ -69,21 +69,6 @@ data-warehouse-project/
 
 This project uses `snake_case` to keep database object names consistent and easy to read.
 
-Examples:
-
-```text
-crm_customer_info
-erp_sales_order
-dim_customers
-fact_sales
-```
-
-Main conventions:
-
-## Naming Conventions
-
-This project uses `snake_case` to keep database object names consistent and easy to read.
-
 | Object | Example |
 |---|---|
 | Bronze/Silver tables | `crm_cust_info`, `erp_loc_a101` |
