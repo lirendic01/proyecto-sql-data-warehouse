@@ -101,12 +101,6 @@ Main conventions:
 - Technical Documentation
 - Git Version Control
 
-## Credits
-
-This project is based on the **SQL Data Warehouse Project** by **Data with Baraa**.
-
-The original project was used as a learning reference, and this repository contains my own implementation and documentation while practicing SQL Server, ETL development, data modeling, and Data Warehouse architecture.
-
 ## Author
 
 Developed by **Lily Rendic** as part of my Data Engineering and Analytics portfolio.
