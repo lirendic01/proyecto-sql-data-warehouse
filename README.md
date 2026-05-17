@@ -10,9 +10,8 @@ The main goal of this project is to consolidate customer, product, and sales dat
 
 ## Architecture
 
-```text
-CSV Sources → Bronze → Silver → Gold → Analytics
-```
+<img width="1492" height="758" alt="Data_architecture" src="https://github.com/user-attachments/assets/8150f629-49ed-4671-934d-4f4de9724e23" />
+
 
 ### Bronze Layer
 
