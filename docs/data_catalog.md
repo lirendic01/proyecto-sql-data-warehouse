@@ -90,8 +90,6 @@ It connects customers and products using their surrogate keys and contains the m
 
 ---
 
-# Simple Explanation
-
 The Gold Layer is the final layer of the Data Warehouse.
 
 In this project:
