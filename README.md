@@ -80,13 +80,16 @@ fact_sales
 
 Main conventions:
 
-| Object | Convention | Example |
-|---|---|---|
-| Bronze tables | source_entity | crm_customer_info |
-| Silver tables | source_entity | crm_customer_info |
-| Gold dimensions | dim_entity | dim_customers |
-| Gold facts | fact_entity | fact_sales |
-| Technical columns | dw_column_name | dw_load_date |
+## Naming Conventions
+
+This project uses `snake_case` to keep database object names consistent and easy to read.
+
+| Object | Example |
+|---|---|
+| Bronze/Silver tables | `crm_cust_info`, `erp_loc_a101` |
+| Gold dimensions | `dim_customers`, `dim_products` |
+| Gold fact tables | `fact_sales` |
+| Technical columns | `dwh_create_date` |
 
 ## Skills Practiced
 
